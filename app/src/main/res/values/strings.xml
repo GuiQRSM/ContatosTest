@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ContatosTest</string>
+    <string name="name_contact">nome</string>
+    <string name="phone_contact">telefone</string>
 </resources>
